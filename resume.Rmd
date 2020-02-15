@@ -1,0 +1,186 @@
+---
+title: "Resume"
+author: Mohamed El Fodil Ihaddaden
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside 
+================================================================================
+
+![](resume_files/ihaddaden.jpg){width=100%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> ihaddaden.fodeil@gmail.com
+- <i class="fa fa-github"></i> [personal website](https://www.ihaddadenfodil.com/)
+- <i class="fa fa-phone"></i> +213 797 705 542
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis, finance, and efficiency analysis. 
+
+- Highly skilled in R and Shiny, Python, Git and Github, Docker, SQL, Excel and Power BI. 
+
+- Very good skills in Natural Language Processing (NLP) with spaCy.
+
+- Excellent skills in ML modeling with R, H2O and Lime. 
+
+- Highly skilled in Latex, Markdown, Office Word. 
+
+- Good knowledge in static website development with R and Hugo (see Personal Website) 
+
+- Developer of the R package [ralger](https://cran.r-project.org/web/packages/ralger/index.html) for Web Scraping. 
+
+- Developer of the R package [BARIS](https://github.com/feddelegrand7/BARIS). 
+
+Main
+================================================================================
+
+Mohamed El Fodil Ihaddaden {#title}
+--------------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Kheir Eddine and Barbarous High School
+
+Baccalaureate in Experimental Science
+
+Algiers, Algeria
+
+2008
+
+### Ecole Nationale Supérieure de Statistique et d'Economie Appliquée ENSSEA
+
+M.S. in Statistics and Applied Economics.
+
+Algiers, Algeria
+
+2008 -- 2013
+
+Thesis: Modeling the frequency of incident in automobile insurance at Alliance Assurances.
+
+### Institut de Financement du Développement du Maghreb Arabe I.FI.D
+
+Post Graduation Degree in Finance
+
+Tunis, Tunisia
+
+2014 -- 2016
+
+Thesis: SME portfolio's credit risk modeling with CREDITRISK+.
+
+
+Research and Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Corporate Financial Analyst
+
+Banque Nationale d'Algérie 
+
+Alger centre, Alger
+
+2016 - Current
+
+Main main tasks include : Firms financial analysis, project feasability and profitability evaluation, sectorial benchmarking establishment and statistical report production
+
+### PhD Candidate in Economics 
+
+Ecole Nationale Supérieure de Statistique et d'Economie Appliquée ENSSEA
+
+Koléa, Tipaza
+
+2016 - 2020
+
+Thesis: Improving public banks' performance: A Data Envelopment Analysis Super-Efficiency model application. 
+
+### PhD Summer School in Experimental Economics
+
+International Max Planck Research School
+
+Jena, Germany
+
+July -- August 2018
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Linear Programming.
+
+Teaching undergraduates an introduction to linear programming with practical application using R and the lpsolve package. 
+
+Koléa, Tipaza
+
+January -- July 2019
+
+<br/>
+
+### R programming for Actuarial Science.
+
+Teaching graduates R programming and statistical modeling for Acturial Science at the National School of Social Security. 
+
+Algiers, Algeria. 
+
+September 2019 -- February 2020
+
+
+
+### Data Analysis with R.
+
+I've given several workshops on data analysis with R in favor of various educational institutions and private compagnies. 
+
+Algiers, Algeria
+
+2019
+
+<br/>
+
+
+Published Papers {data-icon=file}
+--------------------------------------------------------------------------------
+
+
+[Mohamed El Fodil Ihaddaden, (2020) ''Impact of Political Uncertainty on Banking Productivity: Investigating the Jasmin Revolution Effect on the Tunisian Banking System'', Economics Bulletin, Volume 40, Issue 1, pages 437-447.](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I1-P37.pdf)
+
+[Mohamed El Fodil Ihaddaden, (2019). Investigating Eurosystem Central Banking Efficiency: A Data Envelopment Analysis Approach. Revue d'Economie & de Gestion 3 (1), 1-12.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326536)
+
+
+[IHADDADEN, M., & BOUHABA, M. (2019). A PERFORMANCE COMPARISON BETWEEN STATE-OWNED, MIXED AND PRIVATE BANKS IN ALGERIA. Les Cahiers Du CREAD, 35(1), 5-20.](http://revue.cread.dz/index.php/les-cahiers-du-cread/article/view/1189)
+
+
+
+
+Manuscripts under consideration
+---------------------------------------------------------------------------------
+
+
+
+### Being State-Owned is not a Fatality: Improving Public Bank's Performance Using the Data Envelopment Analysis Radial and Super-Efficiency Models: An Algerian Case Study.
+
+Ihaddaden MEF.
+
+*International Journal of Business Performance Management (IJBPM)*
+
+2020
+
+This paper has been accepted with minor revisions. The revised version has been submitted. 
+
+
+Languages {font-awesome=ski-jump}
+--------------------------------------------------------------------------------
+
+#### I speak Arabic and French natively. 
+
+#### I'm proficient with the English language (IELTS ACADEMIC BAND 7)
+
+#### I'm very good with the German language (Goethe Zertifikat A2, B1 and B2)
+
