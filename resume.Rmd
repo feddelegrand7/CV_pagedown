@@ -24,22 +24,21 @@ Contact Info {#contact}
 
 Skills {#skills}
 --------------------------------------------------------------------------------
+- [RStudio Certified Trainer ](https://education.rstudio.com/trainers/)
 
 - Experienced in statistical analysis, finance, and efficiency analysis. 
 
-- Highly skilled in R and Shiny, Python, Git and Github, Docker, SQL, Excel and Power BI. 
-
-- Very good skills in Natural Language Processing (NLP) with spaCy.
+- Highly skilled in R and Power BI. 
 
 - Excellent skills in ML modeling with R, H2O and Lime. 
 
-- Highly skilled in Latex, Markdown, Office Word. 
+- Highly skilled in RMarkdown, Latex, Office Word. 
 
 - Good knowledge in static website development with R and Hugo (see Personal Website) 
 
-- Developer of the R package [ralger](https://cran.r-project.org/web/packages/ralger/index.html) for Web Scraping. 
+- Developer of the R package [ralger](https://CRAN.R-project.org/package=ralger) for Web Scraping. 
 
-- Developer of the R package [BARIS](https://github.com/feddelegrand7/BARIS). 
+- Developer of the R package [BARIS](https://CRAN.R-project.org/package=BARIS). 
 
 Main
 ================================================================================

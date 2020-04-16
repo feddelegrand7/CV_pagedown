@@ -7,15 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Mohamed El Fodil Ihaddaden" />
-    <meta name="date" content="2020-02-15" />
+    <meta name="date" content="2020-04-16" />
     <title>Resume</title>
 
+    
         <link href="resume_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
     <link href="resume_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-    <link href="resume_files/paged-0.3.2/css/resume.css" rel="stylesheet" />
-    <script src="resume_files/paged-0.3.2/js/config.js"></script>
-    <script src="resume_files/paged-0.3.2/js/paged.js"></script>
-    <script src="resume_files/paged-0.3.2/js/hooks.js"></script>
+    <link href="resume_files/paged-0.9/css/resume.css" rel="stylesheet" />
+    <script src="resume_files/paged-0.9/js/config.js"></script>
+    <script src="resume_files/paged-0.9/js/paged.js"></script>
+    <script src="resume_files/paged-0.9/js/hooks.js"></script>
     
     
   </head>
@@ -35,14 +36,14 @@
 <div id="skills" class="section level2">
 <h2>Skills</h2>
 <ul>
+<li><p><a href="https://education.rstudio.com/trainers/">RStudio Certified Trainer</a></p></li>
 <li><p>Experienced in statistical analysis, finance, and efficiency analysis.</p></li>
-<li><p>Highly skilled in R and Shiny, Python, Git and Github, Docker, SQL, Excel and Power BI.</p></li>
-<li><p>Very good skills in Natural Language Processing (NLP) with spaCy.</p></li>
+<li><p>Highly skilled in R and Power BI.</p></li>
 <li><p>Excellent skills in ML modeling with R, H2O and Lime.</p></li>
-<li><p>Highly skilled in Latex, Markdown, Office Word.</p></li>
+<li><p>Highly skilled in RMarkdown, Latex, Office Word.</p></li>
 <li><p>Good knowledge in static website development with R and Hugo (see Personal Website)</p></li>
-<li><p>Developer of the R package <a href="https://cran.r-project.org/web/packages/ralger/index.html">ralger</a> for Web Scraping.</p></li>
-<li><p>Developer of the R package <a href="https://github.com/feddelegrand7/BARIS">BARIS</a>.</p></li>
+<li><p>Developer of the R package <a href="https://CRAN.R-project.org/package=ralger">ralger</a> for Web Scraping.</p></li>
+<li><p>Developer of the R package <a href="https://CRAN.R-project.org/package=BARIS">BARIS</a>.</p></li>
 </ul>
 </div>
 </div>
@@ -59,14 +60,14 @@
 <p>Algiers, Algeria</p>
 <p>2008</p>
 </div>
-<div id="ecole-nationale-superieure-de-statistique-et-deconomie-appliquee-enssea" class="section level3">
+<div id="ecole-nationale-supérieure-de-statistique-et-deconomie-appliquée-enssea" class="section level3">
 <h3>Ecole Nationale Supérieure de Statistique et d’Economie Appliquée ENSSEA</h3>
 <p>M.S. in Statistics and Applied Economics.</p>
 <p>Algiers, Algeria</p>
 <p>2008 – 2013</p>
 <p>Thesis: Modeling the frequency of incident in automobile insurance at Alliance Assurances.</p>
 </div>
-<div id="institut-de-financement-du-developpement-du-maghreb-arabe-i.fi.d" class="section level3">
+<div id="institut-de-financement-du-développement-du-maghreb-arabe-i.fi.d" class="section level3">
 <h3>Institut de Financement du Développement du Maghreb Arabe I.FI.D</h3>
 <p>Post Graduation Degree in Finance</p>
 <p>Tunis, Tunisia</p>
@@ -177,8 +178,11 @@
     if (i === 0 && el.id === 'title') continue;
     el.className += ' main-block';
     if (el.dataset['concise']) el.className += ' concise';
-    s = el.dataset['icon'] || 'bookmark';
-    el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    // if there is no icon, add an icon:
+    if (el.firstElementChild.firstChild && el.firstElementChild.firstChild.nodeName !== 'I') {
+      s = el.dataset['icon'] || 'bookmark';
+      el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    }
   }
 
   // tweak class names of blocks in sections
