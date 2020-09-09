@@ -18,8 +18,8 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> ihaddaden.fodeil@gmail.com
-- <i class="fa fa-github"></i> [personal website](https://www.ihaddadenfodil.com/)
-- <i class="fa fa-phone"></i> +213 797 705 542
+- <i class="fa fa-github"></i> [Github Repo](https://github.com/feddelegrand7)
+- <i class="fa fa-terminal"></i> [personal website](https://www.ihaddadenfodil.com/)
 
 
 Skills {#skills}
@@ -36,9 +36,6 @@ Skills {#skills}
 
 - Good knowledge in static website development with R and Hugo (see Personal Website) 
 
-- Developer of the R package [ralger](https://CRAN.R-project.org/package=ralger) for Web Scraping. 
-
-- Developer of the R package [BARIS](https://CRAN.R-project.org/package=BARIS). 
 
 Main
 ================================================================================
@@ -81,15 +78,6 @@ Thesis: SME portfolio's credit risk modeling with CREDITRISK+.
 Research and Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Corporate Financial Analyst
-
-Banque Nationale d'Algérie 
-
-Alger centre, Alger
-
-2016 - Current
-
-Main main tasks include : Firms financial analysis, project feasability and profitability evaluation, sectorial benchmarking establishment and statistical report production
 
 ### PhD Candidate in Economics 
 
@@ -155,23 +143,7 @@ Published Papers {data-icon=file}
 
 [IHADDADEN, M., & BOUHABA, M. (2019). A PERFORMANCE COMPARISON BETWEEN STATE-OWNED, MIXED AND PRIVATE BANKS IN ALGERIA. Les Cahiers Du CREAD, 35(1), 5-20.](http://revue.cread.dz/index.php/les-cahiers-du-cread/article/view/1189)
 
-
-
-
-Manuscripts under consideration
----------------------------------------------------------------------------------
-
-
-
-### Being State-Owned is not a Fatality: Improving Public Bank's Performance Using the Data Envelopment Analysis Radial and Super-Efficiency Models: An Algerian Case Study.
-
-Ihaddaden MEF.
-
-*International Journal of Business Performance Management (IJBPM)*
-
-2020
-
-This paper has been accepted with minor revisions. The revised version has been submitted. 
+[Mohamed El Fodil Ihaddaden, (in press). Being a State-owned Bank is not a Fatality: An Algerian Case Study, International Journal of Business Performance Management](https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijbpm)
 
 
 Languages {font-awesome=ski-jump}
@@ -181,5 +153,5 @@ Languages {font-awesome=ski-jump}
 
 #### I'm proficient with the English language (IELTS ACADEMIC BAND 7)
 
-#### I'm very good with the German language (Goethe Zertifikat A2, B1 and B2)
+#### I'm goot in German (Goethe Zertifikat A2, B1 and B2)
 
