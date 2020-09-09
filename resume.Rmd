@@ -135,6 +135,8 @@ Algiers, Algeria
 Published Papers {data-icon=file}
 --------------------------------------------------------------------------------
 
+[Mohamed El Fodil Ihaddaden, (in press). Being a State-owned Bank is not a Fatality: An Algerian Case Study, International Journal of Business Performance Management](https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijbpm)
+
 
 [Mohamed El Fodil Ihaddaden, (2020) ''Impact of Political Uncertainty on Banking Productivity: Investigating the Jasmin Revolution Effect on the Tunisian Banking System'', Economics Bulletin, Volume 40, Issue 1, pages 437-447.](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I1-P37.pdf)
 
@@ -142,8 +144,6 @@ Published Papers {data-icon=file}
 
 
 [IHADDADEN, M., & BOUHABA, M. (2019). A PERFORMANCE COMPARISON BETWEEN STATE-OWNED, MIXED AND PRIVATE BANKS IN ALGERIA. Les Cahiers Du CREAD, 35(1), 5-20.](http://revue.cread.dz/index.php/les-cahiers-du-cread/article/view/1189)
-
-[Mohamed El Fodil Ihaddaden, (in press). Being a State-owned Bank is not a Fatality: An Algerian Case Study, International Journal of Business Performance Management](https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijbpm)
 
 
 Languages {font-awesome=ski-jump}
